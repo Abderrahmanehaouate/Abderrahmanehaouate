@@ -24,3 +24,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abderrahmanehaouate&show_icons=true&locale=en" alt="abderrahmanehaouate" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abderrahmanehaouate&" alt="abderrahmanehaouate" /></p>
+
+  <div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Abderrahmanehaouate}/count.svg" /></p> 
+<br></div>
